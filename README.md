@@ -7,6 +7,7 @@
 <br />
 <br />
 
+
 Hi, I'm Abdul Malik. A Software Developer who loves to convert thoughts into code.
 
 
@@ -21,7 +22,7 @@ Hi, I'm Abdul Malik. A Software Developer who loves to convert thoughts into cod
   if you have forked this to use on your profile, 
   Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
 --->
-**Stats:**  
+**Stats :**  
 <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AbdulMalikDev&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -29,8 +30,9 @@ Hi, I'm Abdul Malik. A Software Developer who loves to convert thoughts into cod
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulMalikDev&repo=ounotes&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a><br />
-
 <br />
+<br />
+<br /><br />
 <br />
 
 **Languages and Tools:**  
