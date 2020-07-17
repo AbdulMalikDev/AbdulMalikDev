@@ -1,7 +1,7 @@
 ### Hi there, I'm Abdul Malik 👋
 
 <a href="https://codesandbox.io/u/anuraghazra">
-  <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+  <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" />
 </a>
 <a href="https://twitter.com/anuraghazru">
   <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
@@ -15,8 +15,10 @@
 
 Hi, I'm Abdul Malik. A Software Developer who loves to convert thoughts into code.
 
+
+- 📱  Let's talk about your next App. Contact me [here](https://linkedin.com/in/abdulmalikdev)
 - 🔭 I’m currently working on my project [OU Notes](https://github.com/AbdulMalikDev/ounotes)
-- 🌱 I’m currently learning professional Flutter Development
+- 🌱 I’m currently busy in professional Flutter Development
 - 💬 Ask me about anything [here](https://github.com/AbdulMalikDev/AbdulMalikDev/issues)
 
 **Languages and Tools:**  
