@@ -1,14 +1,11 @@
 ### Hi there, I'm Abdul Malik 👋
-
-<a href="https://linkedin.com/in/abdulmalikdev">
-  <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" />
 </a>
 
 <br />
 <br />
 
 
-Hi, I'm Abdul Malik. A Software Developer who loves to convert thoughts into code.
+A Software Developer who loves to convert thoughts into code.
 
 
 - 📱  Let's talk about your next App. Contact me [here](https://linkedin.com/in/abdulmalikdev)
