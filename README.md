@@ -2,7 +2,6 @@
 </a>
 
 <br />
-<br />
 
 
 A Software Developer who loves to convert thoughts into code.
