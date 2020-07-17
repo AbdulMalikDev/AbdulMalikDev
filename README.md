@@ -32,7 +32,6 @@ Hi, I'm Abdul Malik. A Software Developer who loves to convert thoughts into cod
 
 <br />
 <br />
------------------------------------------------------------
 
 **Languages and Tools:**  
 -----------------------------------------------------------------
