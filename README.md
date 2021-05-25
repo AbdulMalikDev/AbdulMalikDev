@@ -4,7 +4,7 @@
 <br />
 
 
-A Software Developer who loves to convert thoughts into code.
+*A Software Developer who loves to convert thoughts into code.*
 
 
 - 📱  Let's talk about your next App. Contact me [here](https://linkedin.com/in/abdulmalikdev)
