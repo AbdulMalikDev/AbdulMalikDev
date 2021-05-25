@@ -15,11 +15,11 @@ A Software Developer who loves to convert thoughts into code.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2730](https://github.com/webpack/webpack-cli/pull/2730) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-2. 💪 Opened PR [#176](https://github.com/webpack-contrib/npm-install-webpack-plugin/pull/176) in [webpack-contrib/npm-install-webpack-plugin](https://github.com/webpack-contrib/npm-install-webpack-plugin)
-3. 💪 Opened PR [#25214](https://github.com/vercel/next.js/pull/25214) in [vercel/next.js](https://github.com/vercel/next.js)
-4. 💪 Opened PR [#174](https://github.com/webpack-contrib/npm-install-webpack-plugin/pull/174) in [webpack-contrib/npm-install-webpack-plugin](https://github.com/webpack-contrib/npm-install-webpack-plugin)
-5. 💪 Opened PR [#10973](https://github.com/facebook/create-react-app/pull/10973) in [facebook/create-react-app](https://github.com/facebook/create-react-app)
+1. ❗️ Closed issue [#2](https://github.com/AbdulMalikDev/AbdulMalikDev/issues/2) in [AbdulMalikDev/AbdulMalikDev](https://github.com/AbdulMalikDev/AbdulMalikDev)
+2. ❗️ Closed issue [#1](https://github.com/AbdulMalikDev/AbdulMalikDev/issues/1) in [AbdulMalikDev/AbdulMalikDev](https://github.com/AbdulMalikDev/AbdulMalikDev)
+3. 🎉 Merged PR [#142](https://github.com/CCExtractor/rutorrent-flutter/pull/142) in [CCExtractor/rutorrent-flutter](https://github.com/CCExtractor/rutorrent-flutter)
+4. 💪 Opened PR [#142](https://github.com/CCExtractor/rutorrent-flutter/pull/142) in [CCExtractor/rutorrent-flutter](https://github.com/CCExtractor/rutorrent-flutter)
+5. 🎉 Merged PR [#141](https://github.com/CCExtractor/rutorrent-flutter/pull/141) in [CCExtractor/rutorrent-flutter](https://github.com/CCExtractor/rutorrent-flutter)
 <!--END_SECTION:activity-->
 
 ---
