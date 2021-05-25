@@ -8,10 +8,21 @@ A Software Developer who loves to convert thoughts into code.
 
 
 - 📱  Let's talk about your next App. Contact me [here](https://linkedin.com/in/abdulmalikdev)
-- 🔭 I’m currently working on my project [OU Notes](https://github.com/AbdulMalikDev/ounotes)
-- 🌱 I’m currently busy in professional Flutter Development
 - 💬 Ask me about anything [here](https://github.com/AbdulMalikDev/AbdulMalikDev/issues)
 
+---
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+1. 💪 Opened PR [#2730](https://github.com/webpack/webpack-cli/pull/2730) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+2. 💪 Opened PR [#176](https://github.com/webpack-contrib/npm-install-webpack-plugin/pull/176) in [webpack-contrib/npm-install-webpack-plugin](https://github.com/webpack-contrib/npm-install-webpack-plugin)
+3. 💪 Opened PR [#25214](https://github.com/vercel/next.js/pull/25214) in [vercel/next.js](https://github.com/vercel/next.js)
+4. 💪 Opened PR [#174](https://github.com/webpack-contrib/npm-install-webpack-plugin/pull/174) in [webpack-contrib/npm-install-webpack-plugin](https://github.com/webpack-contrib/npm-install-webpack-plugin)
+5. 💪 Opened PR [#10973](https://github.com/facebook/create-react-app/pull/10973) in [facebook/create-react-app](https://github.com/facebook/create-react-app)
+<!--END_SECTION:activity-->
+
+---
 
 
 <!--- 
@@ -19,17 +30,26 @@ A Software Developer who loves to convert thoughts into code.
   Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
 --->
 **Stats :**  
+
 <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AbdulMalikDev&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/AbdulMalikDev/AbdulMalikDev)
+
+---
+
+**My Favorite Project :** 
+
 
 <a href="https://github.com/AbdulMalikDev/ounotes">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulMalikDev&repo=ounotes&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+
 </a><br />
 <br />
 <br />
 <br /><br />
 <br /><br />
+
+---
 
 **Languages and Tools:**  
 -----------------------------------------------------------------
