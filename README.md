@@ -9,7 +9,7 @@
 
 - 📱  Let's talk about your next App. Contact me [here](https://linkedin.com/in/abdulmalikdev)
 - 💬 Ask me about anything [here](https://github.com/AbdulMalikDev/AbdulMalikDev/issues)
-<br/>
+
 
 ## 📈 **Overall Stats :**  
 
