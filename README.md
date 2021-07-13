@@ -74,11 +74,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#144](https://github.com/CCExtractor/rutorrent-flutter/pull/144) in [CCExtractor/rutorrent-flutter](https://github.com/CCExtractor/rutorrent-flutter)
-2. 💪 Opened PR [#144](https://github.com/CCExtractor/rutorrent-flutter/pull/144) in [CCExtractor/rutorrent-flutter](https://github.com/CCExtractor/rutorrent-flutter)
-3. ❗️ Closed issue [#118](https://github.com/CCExtractor/rutorrent-flutter/issues/118) in [CCExtractor/rutorrent-flutter](https://github.com/CCExtractor/rutorrent-flutter)
-4. 🗣 Commented on [#112](https://github.com/wiredashio/wiredash-sdk/issues/112) in [wiredashio/wiredash-sdk](https://github.com/wiredashio/wiredash-sdk)
-5. ❗️ Closed issue [#2](https://github.com/AbdulMalikDev/AbdulMalikDev/issues/2) in [AbdulMalikDev/AbdulMalikDev](https://github.com/AbdulMalikDev/AbdulMalikDev)
+1. ❗️ Closed issue [#146](https://github.com/CCExtractor/rutorrent-flutter/issues/146) in [CCExtractor/rutorrent-flutter](https://github.com/CCExtractor/rutorrent-flutter)
+2. 🎉 Merged PR [#147](https://github.com/CCExtractor/rutorrent-flutter/pull/147) in [CCExtractor/rutorrent-flutter](https://github.com/CCExtractor/rutorrent-flutter)
+3. 💪 Opened PR [#147](https://github.com/CCExtractor/rutorrent-flutter/pull/147) in [CCExtractor/rutorrent-flutter](https://github.com/CCExtractor/rutorrent-flutter)
+4. 🎉 Merged PR [#144](https://github.com/CCExtractor/rutorrent-flutter/pull/144) in [CCExtractor/rutorrent-flutter](https://github.com/CCExtractor/rutorrent-flutter)
+5. 💪 Opened PR [#144](https://github.com/CCExtractor/rutorrent-flutter/pull/144) in [CCExtractor/rutorrent-flutter](https://github.com/CCExtractor/rutorrent-flutter)
 <!--END_SECTION:activity-->
 
 ---
