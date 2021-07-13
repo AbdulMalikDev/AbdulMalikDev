@@ -74,11 +74,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#146](https://github.com/CCExtractor/rutorrent-flutter/issues/146) in [CCExtractor/rutorrent-flutter](https://github.com/CCExtractor/rutorrent-flutter)
-2. 🎉 Merged PR [#147](https://github.com/CCExtractor/rutorrent-flutter/pull/147) in [CCExtractor/rutorrent-flutter](https://github.com/CCExtractor/rutorrent-flutter)
-3. 💪 Opened PR [#147](https://github.com/CCExtractor/rutorrent-flutter/pull/147) in [CCExtractor/rutorrent-flutter](https://github.com/CCExtractor/rutorrent-flutter)
-4. 🎉 Merged PR [#144](https://github.com/CCExtractor/rutorrent-flutter/pull/144) in [CCExtractor/rutorrent-flutter](https://github.com/CCExtractor/rutorrent-flutter)
-5. 💪 Opened PR [#144](https://github.com/CCExtractor/rutorrent-flutter/pull/144) in [CCExtractor/rutorrent-flutter](https://github.com/CCExtractor/rutorrent-flutter)
+1. 💪 Opened PR [#148](https://github.com/CCExtractor/rutorrent-flutter/pull/148) in [CCExtractor/rutorrent-flutter](https://github.com/CCExtractor/rutorrent-flutter)
+2. ❗️ Closed issue [#146](https://github.com/CCExtractor/rutorrent-flutter/issues/146) in [CCExtractor/rutorrent-flutter](https://github.com/CCExtractor/rutorrent-flutter)
+3. 🎉 Merged PR [#147](https://github.com/CCExtractor/rutorrent-flutter/pull/147) in [CCExtractor/rutorrent-flutter](https://github.com/CCExtractor/rutorrent-flutter)
+4. 💪 Opened PR [#147](https://github.com/CCExtractor/rutorrent-flutter/pull/147) in [CCExtractor/rutorrent-flutter](https://github.com/CCExtractor/rutorrent-flutter)
+5. 🎉 Merged PR [#144](https://github.com/CCExtractor/rutorrent-flutter/pull/144) in [CCExtractor/rutorrent-flutter](https://github.com/CCExtractor/rutorrent-flutter)
 <!--END_SECTION:activity-->
 
 ---
