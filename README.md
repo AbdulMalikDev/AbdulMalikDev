@@ -74,11 +74,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#9](https://github.com/adiwajshing/WhatsAppInfoBot/issues/9) in [adiwajshing/WhatsAppInfoBot](https://github.com/adiwajshing/WhatsAppInfoBot)
-2. ❗️ Closed issue [#145](https://github.com/CCExtractor/rutorrent-flutter/issues/145) in [CCExtractor/rutorrent-flutter](https://github.com/CCExtractor/rutorrent-flutter)
-3. 🎉 Merged PR [#148](https://github.com/CCExtractor/rutorrent-flutter/pull/148) in [CCExtractor/rutorrent-flutter](https://github.com/CCExtractor/rutorrent-flutter)
-4. 💪 Opened PR [#148](https://github.com/CCExtractor/rutorrent-flutter/pull/148) in [CCExtractor/rutorrent-flutter](https://github.com/CCExtractor/rutorrent-flutter)
-5. ❗️ Closed issue [#146](https://github.com/CCExtractor/rutorrent-flutter/issues/146) in [CCExtractor/rutorrent-flutter](https://github.com/CCExtractor/rutorrent-flutter)
+1. ❗️ Opened issue [#1](https://github.com/ashutosh1919/birthday-wisher-whatsapp/issues/1) in [ashutosh1919/birthday-wisher-whatsapp](https://github.com/ashutosh1919/birthday-wisher-whatsapp)
+2. ❗️ Opened issue [#9](https://github.com/adiwajshing/WhatsAppInfoBot/issues/9) in [adiwajshing/WhatsAppInfoBot](https://github.com/adiwajshing/WhatsAppInfoBot)
+3. ❗️ Closed issue [#145](https://github.com/CCExtractor/rutorrent-flutter/issues/145) in [CCExtractor/rutorrent-flutter](https://github.com/CCExtractor/rutorrent-flutter)
+4. 🎉 Merged PR [#148](https://github.com/CCExtractor/rutorrent-flutter/pull/148) in [CCExtractor/rutorrent-flutter](https://github.com/CCExtractor/rutorrent-flutter)
+5. 💪 Opened PR [#148](https://github.com/CCExtractor/rutorrent-flutter/pull/148) in [CCExtractor/rutorrent-flutter](https://github.com/CCExtractor/rutorrent-flutter)
 <!--END_SECTION:activity-->
 
 ---
