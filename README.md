@@ -74,11 +74,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/shellbear/shellbear.me/issues/2) in [shellbear/shellbear.me](https://github.com/shellbear/shellbear.me)
-2. 💪 Opened PR [#149](https://github.com/CCExtractor/rutorrent-flutter/pull/149) in [CCExtractor/rutorrent-flutter](https://github.com/CCExtractor/rutorrent-flutter)
-3. 🗣 Commented on [#1](https://github.com/ashutosh1919/birthday-wisher-whatsapp/issues/1) in [ashutosh1919/birthday-wisher-whatsapp](https://github.com/ashutosh1919/birthday-wisher-whatsapp)
-4. ❗️ Opened issue [#1](https://github.com/ashutosh1919/birthday-wisher-whatsapp/issues/1) in [ashutosh1919/birthday-wisher-whatsapp](https://github.com/ashutosh1919/birthday-wisher-whatsapp)
-5. ❗️ Opened issue [#9](https://github.com/adiwajshing/WhatsAppInfoBot/issues/9) in [adiwajshing/WhatsAppInfoBot](https://github.com/adiwajshing/WhatsAppInfoBot)
+1. 🗣 Commented on [#1](https://github.com/AbdulMalikDev/blog-issues/issues/1) in [AbdulMalikDev/blog-issues](https://github.com/AbdulMalikDev/blog-issues)
+2. ❗️ Opened issue [#2](https://github.com/shellbear/shellbear.me/issues/2) in [shellbear/shellbear.me](https://github.com/shellbear/shellbear.me)
+3. 💪 Opened PR [#149](https://github.com/CCExtractor/rutorrent-flutter/pull/149) in [CCExtractor/rutorrent-flutter](https://github.com/CCExtractor/rutorrent-flutter)
+4. 🗣 Commented on [#1](https://github.com/ashutosh1919/birthday-wisher-whatsapp/issues/1) in [ashutosh1919/birthday-wisher-whatsapp](https://github.com/ashutosh1919/birthday-wisher-whatsapp)
+5. ❗️ Opened issue [#1](https://github.com/ashutosh1919/birthday-wisher-whatsapp/issues/1) in [ashutosh1919/birthday-wisher-whatsapp](https://github.com/ashutosh1919/birthday-wisher-whatsapp)
 <!--END_SECTION:activity-->
 
 ---
