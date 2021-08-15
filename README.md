@@ -74,11 +74,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#151](https://github.com/CCExtractor/rutorrent-flutter/pull/151) in [CCExtractor/rutorrent-flutter](https://github.com/CCExtractor/rutorrent-flutter)
-2. 💪 Opened PR [#151](https://github.com/CCExtractor/rutorrent-flutter/pull/151) in [CCExtractor/rutorrent-flutter](https://github.com/CCExtractor/rutorrent-flutter)
-3. 🗣 Commented on [#1](https://github.com/AbdulMalikDev/blog-issues/issues/1) in [AbdulMalikDev/blog-issues](https://github.com/AbdulMalikDev/blog-issues)
-4. ❗️ Opened issue [#2](https://github.com/shellbear/shellbear.me/issues/2) in [shellbear/shellbear.me](https://github.com/shellbear/shellbear.me)
-5. 💪 Opened PR [#149](https://github.com/CCExtractor/rutorrent-flutter/pull/149) in [CCExtractor/rutorrent-flutter](https://github.com/CCExtractor/rutorrent-flutter)
+1. ❌ Reopened PR [#151](https://github.com/CCExtractor/rutorrent-flutter/pull/151) in [CCExtractor/rutorrent-flutter](https://github.com/CCExtractor/rutorrent-flutter)
+2. ❌ Closed PR [#151](https://github.com/CCExtractor/rutorrent-flutter/pull/151) in [CCExtractor/rutorrent-flutter](https://github.com/CCExtractor/rutorrent-flutter)
+3. 💪 Opened PR [#151](https://github.com/CCExtractor/rutorrent-flutter/pull/151) in [CCExtractor/rutorrent-flutter](https://github.com/CCExtractor/rutorrent-flutter)
+4. 🗣 Commented on [#1](https://github.com/AbdulMalikDev/blog-issues/issues/1) in [AbdulMalikDev/blog-issues](https://github.com/AbdulMalikDev/blog-issues)
+5. ❗️ Opened issue [#2](https://github.com/shellbear/shellbear.me/issues/2) in [shellbear/shellbear.me](https://github.com/shellbear/shellbear.me)
 <!--END_SECTION:activity-->
 
 ---
