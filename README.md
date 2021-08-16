@@ -74,11 +74,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#151](https://github.com/CCExtractor/rutorrent-flutter/pull/151) in [CCExtractor/rutorrent-flutter](https://github.com/CCExtractor/rutorrent-flutter)
+1. 💪 Opened PR [#152](https://github.com/CCExtractor/rutorrent-flutter/pull/152) in [CCExtractor/rutorrent-flutter](https://github.com/CCExtractor/rutorrent-flutter)
 2. ❌ Closed PR [#151](https://github.com/CCExtractor/rutorrent-flutter/pull/151) in [CCExtractor/rutorrent-flutter](https://github.com/CCExtractor/rutorrent-flutter)
 3. ❌ Reopened PR [#151](https://github.com/CCExtractor/rutorrent-flutter/pull/151) in [CCExtractor/rutorrent-flutter](https://github.com/CCExtractor/rutorrent-flutter)
 4. ❌ Closed PR [#151](https://github.com/CCExtractor/rutorrent-flutter/pull/151) in [CCExtractor/rutorrent-flutter](https://github.com/CCExtractor/rutorrent-flutter)
-5. 💪 Opened PR [#151](https://github.com/CCExtractor/rutorrent-flutter/pull/151) in [CCExtractor/rutorrent-flutter](https://github.com/CCExtractor/rutorrent-flutter)
+5. ❌ Reopened PR [#151](https://github.com/CCExtractor/rutorrent-flutter/pull/151) in [CCExtractor/rutorrent-flutter](https://github.com/CCExtractor/rutorrent-flutter)
 <!--END_SECTION:activity-->
 
 ---
