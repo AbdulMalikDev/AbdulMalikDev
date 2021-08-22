@@ -74,11 +74,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1187](https://github.com/YTVanced/Vanced/issues/1187) in [YTVanced/Vanced](https://github.com/YTVanced/Vanced)
-2. ❗️ Opened issue [#1187](https://github.com/YTVanced/Vanced/issues/1187) in [YTVanced/Vanced](https://github.com/YTVanced/Vanced)
-3. 🗣 Commented on [#82](https://github.com/YTVanced/Vanced/issues/82) in [YTVanced/Vanced](https://github.com/YTVanced/Vanced)
-4. 💪 Opened PR [#152](https://github.com/CCExtractor/rutorrent-flutter/pull/152) in [CCExtractor/rutorrent-flutter](https://github.com/CCExtractor/rutorrent-flutter)
-5. ❌ Closed PR [#151](https://github.com/CCExtractor/rutorrent-flutter/pull/151) in [CCExtractor/rutorrent-flutter](https://github.com/CCExtractor/rutorrent-flutter)
+1. 🎉 Merged PR [#152](https://github.com/CCExtractor/rutorrent-flutter/pull/152) in [CCExtractor/rutorrent-flutter](https://github.com/CCExtractor/rutorrent-flutter)
+2. 🗣 Commented on [#1187](https://github.com/YTVanced/Vanced/issues/1187) in [YTVanced/Vanced](https://github.com/YTVanced/Vanced)
+3. ❗️ Opened issue [#1187](https://github.com/YTVanced/Vanced/issues/1187) in [YTVanced/Vanced](https://github.com/YTVanced/Vanced)
+4. 🗣 Commented on [#82](https://github.com/YTVanced/Vanced/issues/82) in [YTVanced/Vanced](https://github.com/YTVanced/Vanced)
+5. 💪 Opened PR [#152](https://github.com/CCExtractor/rutorrent-flutter/pull/152) in [CCExtractor/rutorrent-flutter](https://github.com/CCExtractor/rutorrent-flutter)
 <!--END_SECTION:activity-->
 
 ---
