@@ -7,8 +7,8 @@
 *A Software Developer who loves to convert thoughts into code.*
 
 
-- 💻  Visit my portfolio website [here](https://maliksquared.com)
-- 💬 Ask me about anything [here](https://github.com/AbdulMalikDev/AbdulMalikDev/issues)
+- 💻  Visit my **portfolio website** [here](https://maliksquared.com)
+- 💬 Ask me about **anything** [here](https://github.com/AbdulMalikDev/AbdulMalikDev/issues)
 
 
 ## 📈 **Overall Stats :**  
