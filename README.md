@@ -7,7 +7,7 @@
 *A Software Developer who loves to convert thoughts into code.*
 
 
-- 📱  Let's talk about your next App. Contact me [here](https://linkedin.com/in/abdulmalikdev)
+- 💻  Visit my portfolio website [here](https://maliksquared.com)
 - 💬 Ask me about anything [here](https://github.com/AbdulMalikDev/AbdulMalikDev/issues)
 
 
