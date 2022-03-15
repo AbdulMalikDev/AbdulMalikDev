@@ -50,6 +50,9 @@
 - [**450 DSA Quesitons**](https://github.com/AbdulMalikDev/450-DSA)
 - [**AlgoExpert Solutions**](https://github.com/Syed-Flutter-Dev/My-Algoexpert-Solutions)
 
+### 🏃 Team Work
+- [**The MJCET College Guide**](https://github.com/AbdulMalikDev/MjcetWiki)
+
 
 
 
