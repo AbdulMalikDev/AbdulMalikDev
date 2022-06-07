@@ -49,6 +49,7 @@
 ### 🧬 Data Structures and Algorithms
 - [**450 DSA Quesitons**](https://github.com/AbdulMalikDev/450-DSA)
 - [**AlgoExpert Solutions**](https://github.com/Syed-Flutter-Dev/My-Algoexpert-Solutions)
+- [**169 DSA Problems**](https://github.com/AbdulMalikDev/Grind169)
 
 ### 🏃 Team Work
 - [**The MJCET College Guide**](https://github.com/AbdulMalikDev/MjcetWiki)
