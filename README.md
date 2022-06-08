@@ -50,6 +50,7 @@
 - [**450 DSA Quesitons**](https://github.com/AbdulMalikDev/450-DSA)
 - [**AlgoExpert Solutions**](https://github.com/Syed-Flutter-Dev/My-Algoexpert-Solutions)
 - [**169 DSA Problems**](https://github.com/AbdulMalikDev/Grind169)
+- [**Python Cheat Sheet for Leetcode**](https://github.com/AbdulMalikDev/PythonCheatSheet)
 
 ### 🏃 Team Work
 - [**The MJCET College Guide**](https://github.com/AbdulMalikDev/MjcetWiki)
