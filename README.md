@@ -6,8 +6,8 @@
 
 *A Software Developer who loves to convert thoughts into code.*
 
-
-- 💻  Visit my **portfolio website** [here](https://maliksquared.com)
+[//]: # (- 💻  Visit my **portfolio website** here)
+- Check out my ☀️ **Google Summer of Code** 2022 work [here](https://gist.github.com/AbdulMalikDev/7b9dd5bdf3dae02494fd2aea0df19f3c)
 - 💬 Ask me about **anything** [here](https://github.com/AbdulMalikDev/AbdulMalikDev/issues)
 
 
